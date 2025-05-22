@@ -1,0 +1,16 @@
+{
+  "urls": [
+    ["capture.py", "github:kf106/MQTT-Cam/capture.py"],
+    ["exceptions.py", "github:kf106/MQTT-Cam/exceptions.py"],
+    ["robust.py", "github:kf106/MQTT-Cam/robust.py"],
+    ["status.py", "github:kf106/MQTT-Cam/status.py"],
+    ["umqttsimple.py", "github:kf106/MQTT-Cam/umqttsimple.py"],
+    ["upload_image.py", "github:kf106/MQTT-Cam/upload_image.py"],
+    ["uploader.py", "github:kf106/MQTT-Cam/uploader.py"],
+    ["wifi.py", "github:kf106/MQTT-Cam/wifi.py"],
+    ["callback/__init__.py", "github:kf106/MQTT-Cam/callback/__init__.py"],
+    ["callback/action.py", "github:kf106/MQTT-Cam/callback/action.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
